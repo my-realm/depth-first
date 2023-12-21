@@ -1,6 +1,6 @@
 # Future Soldier Program 
 
->What types of things can be estimated, about the future of a soldier's life, on the front-lines in battle fields of full-spectrum modern warfare? 
+>What types of things can be estimated, about the future of a soldier's life on the front-lines, within the battle fields of full-spectrum modern warfare? 
 
 ## 1. Introduction
 
