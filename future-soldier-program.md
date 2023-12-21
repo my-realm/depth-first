@@ -1,6 +1,6 @@
 # Future Soldier Program 
 
->What types of things can be estimated, about the future of a soldier's life on the front-lines, within the battle fields of full-spectrum modern warfare? 
+What types of things can be estimated, about the future of a soldier's life on the front-lines, within the battle fields of full-spectrum modern warfare? 
 
 ## 1. Introduction
 
@@ -59,10 +59,9 @@ Climate Change isn't only about carbon dioxide and methane emissions impacting t
 
 <div align = "center">
 
-[Would you take sponsorship money from arms dealers for a peace conference, or hand the fire extinguisher to the arsonist who attacked your house?](https://youtu.be/lZDsJ-nz-GI) 
+<a href="https://youtu.be/lZDsJ-nz-GI"><span>Would you take sponsorship money from arms dealers for a peace conference, <br/> or hand the fire extinguisher to the arsonist who attacked your house?</span></a> 
 
-![](./src/so-youre-telling-me-24b1dbd790.jpg)
-
+<img src="./src/so-youre-telling-me-24b1dbd790.jpg" alt="So you're telling me.." height="45%">
 </div>
 
 ---
