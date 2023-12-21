@@ -8,7 +8,7 @@ One of the very first projects I was involved in, during 2008-2009, had to do wi
 
 >Which aspect of the military (US and NATO) requires investment and development now, so that its soldiers can handle the upcoming challenges of the future, with a 10 year, and a 30 year horizon? 
 
-Let me first explain different parts of the above question. 
+Let me first explain some of the reasons to ever consider such an open ended question, in sincerity and seriousness. 
 
 The idea that a military is deficient or lacking, in some area, is almost never admitted by any country's government. However, as realists, it is necessary to acknowledge the fact that, a military platoon or a squad, is able to handle a current-day challenge, only because of investments made 10 to 30 years ago, into the equipment, education, training, and readiness of those troops. With each consecutive year that passes by, a new challenge crops up, and when a particular challenge is not met by any of the strategists and tacticians, it becomes evident that a shift in attitudes and "visioning" is needed, to quickly ramp up production as well as deployment of necessary resources. 
 
