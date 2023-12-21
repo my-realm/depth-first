@@ -61,7 +61,9 @@ Climate Change isn't only about carbon dioxide and methane emissions impacting t
 
 <a href="https://youtu.be/lZDsJ-nz-GI"><span>Would you take sponsorship money from arms dealers for a peace conference, <br/> or hand the fire extinguisher to the arsonist who attacked your house?</span></a> 
 
-<img src="./src/so-youre-telling-me-24b1dbd790.jpg" alt="So you're telling me.." height="45%">
+<br>
+
+<img src="./src/so-youre-telling-me-24b1dbd790.jpg" alt="So you're telling me.." width="45%">
 </div>
 
 ---
