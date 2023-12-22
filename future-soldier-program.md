@@ -38,7 +38,7 @@ Compared to airways, railways in countries like China and India, are currently p
 
 So, where will soldiers need to be deployed with advanced night-vision goggles and close-combat support from aerial, terrestrial, sea, and orbital space based supply networks? Deep within the furthest parts of Central Asia, Africa, Oceania, and South America. Basically all of the locations that the erstwhile British Empire didn't manage to conquer, or ended up loosing to the idea of, "independence from imperialism and colonialism." 
 
-As such, are there any issues and challenges that those soldiers will simply not be able to counter-act or handle, no matter the amount of investment that is dumped into their missions, within the current and the next few years, because of decisions made by leaders within NATO group of countries in the past decade? We will explore such question's answers and their antecedent factors, in this article. 
+As such, are there any issues and challenges that those soldiers will simply not be able to counter-act or handle, no matter the amount of investment that is dumped into their missions, within the current and the next few years, because of decisions made by leaders within NATO group of countries in the past decade? We will explore possible answers to such question's and their antecedent factors, in this article. 
 
 
 ### Important Note:
