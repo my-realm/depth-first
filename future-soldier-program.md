@@ -20,7 +20,7 @@ WWII proved to all countries alike, that there is no such thing as a morally or 
 
 So, by the time a country like India had managed to produce its indigenous nuclear weapons program, to create a single thermonuclear device that was tested at [Pokhran](https://en.wikipedia.org/wiki/Smiling_Buddha), it was already mid-nineteen-seventies, which was more than 30 years from when other countries in Europe and North America had started their research and development programs, for nuclear weapons based warfare. 
 
-It is only natural for military strategists and world leaders of a country to ask, "Which areas of industrial research and development need to be prioritized now?", so that their country isn't suddenly caught unaware or unprepared down the line, in the future, during potential armed conflicts with seemingly distant, or close-by neighboring countries. 
+It is only natural for military strategists and world leaders of a country to ask, "Which areas of industrial research and development need to be prioritized now?", so that their country isn't suddenly caught unaware or unprepared down the line, in the future, during potential and actual armed conflicts with seemingly distant, or close-by neighboring countries. 
 
 Too bad, almost all of those think-tanks and strategic planning committee members of parliaments in various countries, simply forgot to include [Climate Change](https://youtu.be/RtItB0TewXI) as a factor within national plans and assessments they created 30 years ago. In fact, even now, many of them in industrialized as well as industrializing countries, still don't acknowledge Climate Change as, "a real and pressing concern." 
 
