@@ -51,7 +51,7 @@ Climate Change isn't only about carbon dioxide and methane emissions impacting t
 
 - emergence of new types of diseases impacting plants and animals at a pandemic level,
 
-- worsening scarcity of potable water rich as well as poor countries, and 
+- worsening scarcity of potable water in rich as well as poor countries, and 
 
 - shift in oceanic currents. 
 
