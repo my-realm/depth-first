@@ -68,6 +68,8 @@ Climate Change isn't only about carbon dioxide and methane emissions impacting t
 <img src="./src/so-youre-telling-me-24b1dbd790.jpg" alt="So you're telling me.." width="45%">
 </div>
 
+<br>
+
 ## 2. Implicit Association Tests
 
 >Do you implicitly trust somebody as an authority figure, as a person for whom you would do anything, simply because you wouldn't want to upset them, or just because you want to, or need to, gain their approval and admiration? 
