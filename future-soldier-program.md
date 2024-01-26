@@ -74,7 +74,7 @@ Climate Change isn't only about carbon dioxide and methane emissions impacting t
 
 >Do you implicitly trust somebody as an authority figure, as a person for whom you would do anything, simply because you wouldn't want to upset them, or just because you want to, or need to, gain their approval and admiration? 
 
-You most probably do, whether you know it or not. Try to visualize who that person is. 
+You most probably do, whether you know it or not. But do try to visualize who that person is, or could be. 
 
 Is it somebody who is or was a care giver to you? Perhaps a spiritual guide, or a teacher, or a community leader of some sort? Maybe a familial or a parental figure, somebody you look up to, and want to be someday? Or somebody you are afraid of? Or perhaps, somebody who gave you a shot at life and at making something worthwhile of yourself; someone who took you in, protected you and stood by your side, when simply no other person could, or would, lend you a helping hand or even bother to notice you. 
 
