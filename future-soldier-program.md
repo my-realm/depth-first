@@ -150,6 +150,7 @@ Can IAT be used for measuring if a sense of guilt or shame, has been successfull
 ```
 Acronyms:
 
+CPU     - Central Processing Unit.
 IAT     - Implicit Association Test.
 NATO    - North Atlantic Treaty Organization. 
 OECD    - Organization for Economic Co-operation and Development.
