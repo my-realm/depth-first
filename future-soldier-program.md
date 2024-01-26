@@ -76,9 +76,9 @@ Climate Change isn't only about carbon dioxide and methane emissions impacting t
 
 You most probably do, whether you know it or not. Try to visualize who that person is. 
 
-Is it somebody who is or was a care giver to you? Perhaps a spiritual guide, or a teacher, or a community leader of some sort? Maybe a familial or a parental figure, somebody you look up to, and want to be someday? Or somebody you are afraid of? Or perhaps, somebody who gave you a shot at life and at making something worthwhile of yourself, someone who protected you and stood by your side, when simply no other person could, or would, lend you a helping hand or even bother to notice you. 
+Is it somebody who is or was a care giver to you? Perhaps a spiritual guide, or a teacher, or a community leader of some sort? Maybe a familial or a parental figure, somebody you look up to, and want to be someday? Or somebody you are afraid of? Or perhaps, somebody who gave you a shot at life and at making something worthwhile of yourself; someone who took you in, protected you and stood by your side, when simply no other person could, or would, lend you a helping hand or even bother to notice you. 
 
-You most probably owe them something important, that is why, you are decidedly dedicated to them, nay, you are most probably, devoted to them. 
+You most certainly owe them something important, that is why, you are decidedly committed or dedicated to obeying them, nay, you are most probably, devoted to them. 
 
 Deep down within your psyche, you trust them more than you would trust yourself or any other voice in your head. Their voice, their slightest presence, alerts you to be your best, and to do your best, not just for them or for your own sake, but for the future you've come to envision, because of them. 
 
@@ -90,7 +90,7 @@ Likewise, is there somebody you implicitly distrust? Somebody you will not, or s
 
 There most probably is, at least one such person in your life, that you can't seem to get rid of or have them stay sufficiently at bay, regardless of whether you would like to admit it out loud or not. 
 
-By the way, *trust* is based on the assumptions you have about a person's intentions and "known reputation"; whereas, *reliance* is based on the measurable experience you have personally had, pertaining to someone's behaviors. Trust, eventually waxes or wanes, based on repeated experience of the type of expectations, that have been met, or unmet, over a period of time.  
+By the way, *trust* is based on the assumptions you have about a person's intentions and "known reputation"; whereas, *reliance* is based on the measurable experience you have personally had, pertaining to someone's behaviors in your presence. Trust, eventually waxes or wanes, based on repeated experience of the type of expectations, that have been met, or unmet, over a period of time.  
 
 Now, before we dwell deeper into the topic of trust and how to measure it, including the implicit form of it which manifests subconsciously and without hesitation, let us first look at the concepts of guilt and shame, shall we? 
 
