@@ -124,7 +124,7 @@ So, while IAT may have lots of cute, pop-science applications that can be turned
 
     - Clicking a button to decide on Image X vs Image Y, takes about 400 to 600 milliseconds for young adults who don't have any impairments, which includes the entire pathway between noticing what the shown images contained, deciding on a preference, initializing a neuro-muscular response to click on a button, and, the electromechanical connection between the button and the computerized apparatus being used for the experiment. 
 
-    - To ease the participant into the experiment, the images can be shown on the screen for a 2.5 seconds, and sped up after every two or three pairs, to eventually show each pair of stimuli, for 0.8 seconds. 
+    - To ease the participant into the experiment, the images can be shown on the screen for a period of 2.5 seconds, and sped up after every two or three pairs, to eventually show each pair of stimuli, for 0.8 seconds. 
 
 - The participant eventually makes rapid decisions and reactions to shown stimuli, and the pairs of stimuli can be repeated. A stable response to given pairs emerges after 15 or 20 pairs of stimuli. 
 
