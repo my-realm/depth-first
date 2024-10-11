@@ -58,7 +58,7 @@ For your particular OS, use either of the following links for obtaining a PGP en
 
 ### Lastly
 
-Muse about the contents in the file `scenarios.md` upon reading through it.  
+:innocent::eyes: Muse about the contents in the file `scenarios.md` upon reading through it.  
 
 <br>
 
