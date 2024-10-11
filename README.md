@@ -1,6 +1,6 @@
 # depth-first
 
-Welcome to the deep end. 
+Welcome to the deep-end. 
 
 ## How to Download and Read PGP Files
 
@@ -18,7 +18,7 @@ Welcome to the deep end.
 
 1. Or by using `wget`, `curl`, or `git clone` from a command line app  
 
-	1. download the file from the above-mentioned link to your local file system  
+	1. Download the file from the above-mentioned link to your local file system  
 
 <br>
 
@@ -60,7 +60,9 @@ For your particular OS, use either of the following links for obtaining a PGP en
 
 Muse about the contents in the file `scenarios.md` upon reading through it.  
 
-## But what is the freaking password for the given file? 
+<br>
+
+### But what is the freaking password for the given file? 
 
 Umm, so...
 
@@ -68,3 +70,18 @@ Umm, so...
 
 1. You can ask for the password from me, through proper channels, via your embassy in India.  
 
+<br>
+
+## In the mean time...
+
+You can read any of the following articles: 
+
+- **[2021_11_29 | War Doctrine](https://github.com/my-realm/depth-first/blob/master/war-doctrine)**
+
+- **[2023_12_23 | Martial Influencers](https://github.com/my-realm/depth-first/blob/86c331abfc25323e6430f67f43d7a2707fa174ee/martial-influencers.pdf)**
+
+- **[2024_01_26 | Future Soldier Program](https://github.com/my-realm/depth-first/blob/master/future-soldier-program.md)**
+
+- **[2024_01_30 | Happiness](https://github.com/my-realm/depth-first/blob/master/happiness.md)**
+
+- **[2024_07_04 | Welcome to World War III](https://github.com/my-realm/depth-first/blob/master/welcome-to-world-war-iii.md)**
