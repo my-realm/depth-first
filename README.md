@@ -66,11 +66,9 @@ For your particular OS, use either of the following links for obtaining a PGP en
 
 Umm, so...
 
-1. You either need to break the encryption on the file if you don't have the password (which, shouldn't be too difficult for you, if you have the right tools and skills), or  
+1. You need to break the encryption on the file. I don't have the password for it anymore. 
 
-1. You can ask for the password from me, through proper channels, via your Embassy in India.  
-
-1. There is also the possibility that you had already hacked into my computer networks long time ago, and managed to read all such files while I was writing them. But, there are so many more of those "scenarios" in notebooks. 
+1. There is also the possibility that you had already hacked into my computer networks long time ago, and managed to read all such files while I was writing them. 
 
 <br>
 
