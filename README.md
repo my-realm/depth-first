@@ -87,3 +87,5 @@ You can read any of the following articles:
 - **[2024_03_13 | Being The Fool :dizzy_face:](https://github.com/callthis/fiction/blob/master/being-the-fool.md)**
 
 - **[2024_07_04 | Welcome to World War III](https://github.com/my-realm/depth-first/blob/master/welcome-to-world-war-iii.md)**
+
+- **[2025_02_26 | Generation Upon Generation](https://github.com/my-realm/depth-first/blob/master/generation-upon-generation.md)**
