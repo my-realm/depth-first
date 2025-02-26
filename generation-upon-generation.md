@@ -20,7 +20,7 @@ So, now that the very concept and idea of Petro-Dollars is already a fiat curren
 
 Also, the fitness of existing and upcoming generations of people in many countries have already been handicapped to the extent that billions of people in the so-called Global South, have a meek and diminutive sense of self-worth and self-esteem, which is naturally conducive to being subordinate to the rule of white-supremacists. Anything other than servility is seen as a threat, and is labeled as rudeness, brashness, hubris, and uncivilized behavior, by supremacists. 
 
-In all of this, why has China been utterly defiant to becoming subordinate to western rulers who claim to be "the Lords of The Realm?" More importantly, how has China been able to remain defiant and unyielding to the pressures of getting subdued by white-supremacists? 
+In all of this, why has China been utterly defiant to becoming subordinate to western rulers who claim to be "The Lords of The Realm?" More importantly, how has China been able to remain defiant and unyielding to the pressures of getting subdued by white-supremacists? 
 
 The Chinese simply decided to be a nation in their own right, so that they could maintain their true identity without being white-washed. That is all there is to becoming a sovereign nation and maintaining cultural contiguity across space and time, by simply deciding to do so, and then doing it with complete zeal and unwavering focus. 
 
@@ -36,7 +36,7 @@ The successive leaders of the CCP managed to figure out that prioritizing the ne
 
 Factory owners and landlords, particularly monarchic and supremacist lords of a manor or a giga-factory, have only ever needed laborers with sufficient physical fitness without creative skills, because those supremacists have always assumed that all of the creative fiat from "God", was already gifted and granted to them as systems architects and leaders, via their so-called "pure bloodline and heritage." 
 
-Similar to the way there were cotton-picking "niggers" who were owned as slaves by colonialists in the previous era, there are now data-picking "sand-niggers" who are practically serfs and slaves belonging to owners of multi-national corporations, in the current digital age. And India's caste system conveniently serves all the possible varieties of sand-niggers that corporate lords from NATO countries can ever need or want. 
+>Similar to the way there were cotton-picking "niggers" who were owned as slaves by colonialists in the previous era, there are now data-picking "sand-niggers" who are practically serfs and slaves belonging to owners of multi-national corporations, in the current digital age. And India's caste system conveniently serves all the possible varieties of sand-niggers that corporate lords from NATO countries can ever need or want. 
 
 It is true that a majority of the population in India and in its neighboring countries, is still suffering the dire consequences of impoverishment and poverty, which was levied upon the regions of South and South-East Asia as a punishment by Britain, for attempting to become independent nation-states or Republics by separating from the United Kingdom. 
 
