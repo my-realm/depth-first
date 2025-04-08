@@ -66,9 +66,9 @@ For your particular OS, use either of the following links for obtaining a PGP en
 
 Umm, so...
 
-1. You need to break the encryption on the file. I don't have the password for it anymore. 
+1. You will need to break the encryption on the file to open it. I don't have the password for it anymore. 
 
-1. There is also the possibility that you had already hacked into my computer networks long time ago, and managed to read all such files while I was writing them. 
+1. There is also the possibility that you had already hacked into my computer networks, a long time ago, and have since, managed to read all such files while I was writing them. 
 
 <br>
 
