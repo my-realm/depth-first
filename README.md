@@ -89,3 +89,5 @@ You can read any of the following articles:
 - **[2024_07_04 | Welcome to World War III](https://github.com/my-realm/depth-first/blob/master/welcome-to-world-war-iii.md)**
 
 - **[2025_02_26 | Generation Upon Generation](https://github.com/my-realm/depth-first/blob/master/generation-upon-generation.md)**
+
+- **[2025_06_11 | Kards Gameplay](https://github.com/my-realm/depth-first/blob/master/kards-gameplay.md)**
