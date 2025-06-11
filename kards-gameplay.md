@@ -12,9 +12,13 @@ Each card represents a military unit with nice artwork. The unit has a "Life Str
 
 At the start of the game, each player draws a set of cards from their deck into their hand. The player who goes first, draws 4 cards from their deck, and the one who goes second, draws 5 cards from their deck. After the first player ends their turn, the second player draws another card, as each player draws a card at the beginning of their turn. So, the second player has 6 cards at the start of their turn, but the first player had the advantage of "first move."
 
-At the beginning of each turn, the players get at least 1 new slot for action points, and usually up to 12 maximum slots. The action points in this game are called "Kards." So, by the 12th turn, the player may have 12 Kard points to spend for making their combination of moves. The special features described on the cards can change this dynamic of how many action points are available to each player during their turn, in intricate ways.  
+A maximum of 9 cards can be held in the had during each turn. So, at the beginning of a turn, if the player already has 9 cards, the new card drawn from the deck is automatically discarded. 
 
-The game proceeds with each player placing a card onto the table, within the allotted time of their turn. If the timer ticks down, and the player does not perform any action, the turn ends. Sometimes, the game slowly ends after 3 turns of no action, if a player gets disconnected or goes AFK. There is an option to "surrender" in the battle. And the winning condition is always due to one opponent's HQ getting destroyed.   
+Players already familiar with other table-top card games, will be able to easily grasp the mechanics of how cards in this online game are drawn from a deck, or discarded, or put into play. The animations and background art depicting the table are also very neat ^_^ 
+
+At the beginning of each turn, the players also get at least 1 new slot for action points, and usually up to 12 maximum slots. The action points in this game are called "Kards." So, by the 12th turn, the player may have 12 Kard points to spend for making their combination of moves. The special features described on the cards can change the dynamic of how many action points are available to each player during their turn, in intricate ways.  
+
+The game proceeds with each player placing a playable card onto the table, within the allotted time of their turn. If the timer ticks down, and the player does not perform any actions, the turn ends. Sometimes, the game slowly ends after 3 turns of no action, if a player gets disconnected or goes AFK. There is an option to "Surrender" in the battle's menu button. And the winning condition of a match is always due to one opponent's HQ getting destroyed.   
 
 The e-sports version of this game has "top tier players" competing for fiat money. 
 
