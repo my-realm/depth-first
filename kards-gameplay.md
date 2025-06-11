@@ -25,7 +25,7 @@ So the following decks have a variety of strategies and tactics for different st
 <details>
 <summary><strong>Deeper than a game of Chess!</strong></summary>
 <br>
-Oh! And, this game does have a chat module and friending option for building a contact list. The in-game chat is encrypted via Steam's auth security and by the game developer's message relay system. Eventually, you might be able to find OpenSource Int guys and gals here in the network of people playing Kards online, especially Chinese one. 
+Oh! And, this game has a chat module and friending option for building a contact list. The in-game chat is encrypted via Steam's auth security and by the game developer's message relay system. Eventually, you might be able to find OpenSource Int guys and gals here in the network of people playing Kards online, especially Chinese one. 
 
 Unless your device has been compromised and your keystrokes (or taps or mouse movements) are being spied upon and recorded by someone, the chat messages sent to a contact from within the game is likely to go unnoticed by any surveillance teams, even the ones funded by the CCP. This is because an agency snooping on your online activities is only going to see the signals sent from your computer to a "game server" indicating that you were merely playing a childish card game for hours. They won't even be able to notice which of those internet packets were chat messages. 
 
