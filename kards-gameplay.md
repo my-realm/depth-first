@@ -484,7 +484,11 @@ https://www.kards.com/decks/deck-builder
 	
 - Carry Brewsters (American-Italian)
 
-	%%57|5i5pbRsKu8uD;blbqd4ohs5sIsusv;bIsHu6;sGst
+	%%57|5i5pbRsKu8uD;blbqd4ohs5sIsusv;bIsHu6;sGst 
+	
+- Guard Factories (Russian-French) 
+
+	%%46|868ih3jsqLqTtm;qI;7Stj;9n9po4oGritl
 
 
 ### Other Cool Decks 
