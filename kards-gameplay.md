@@ -220,9 +220,13 @@ https://www.kards.com/decks/deck-builder
 	
 	Flood the fields with aerial units and then use close air support 
 	
-- Macchi Blitz (British-Italian)
+	- Air Blitz IT (British Italian)
 
-	%%27|0F0o1a1DfVgv;090b0E;0p1o1O5i5m;07ops5
+		%%27|060F0i0m1a1D1K1O1r1u1whDlCoxozrd;081o1t5js5;fXjqop;07
+	
+	- Macchi Blitz (British-Italian)
+
+		%%27|0F0o1a1DfVgv;090b0E;0p1o1O5i5m;07ops5
 	
 - Anything But (Russian-Polish) 
 
