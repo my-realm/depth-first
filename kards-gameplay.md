@@ -90,11 +90,19 @@ https://www.kards.com/decks/deck-builder
 
 		%%36|5C5w636B6XfmgQjjmcnPp9;5u61gJnQ;62m4nOqz;nroG
 		
+		%%36|2n5u5w636B79mgnRqC;5Y61nOp4;2ip6;m4nroGqz
+		
 		destroy all units and empty the opponent's deck
 	
 - Super Heavy (Russian-American)
 
 	%%45|8g8i9c9n9tnVpEpl;7P7R7S9l9pbPiZjurg;iJiLqK;ri  
+	
+	%%45|7R8c8g949b9c9n9tbKbPjsnVpEplqTqWrj;7S9l9piJiZrg;iLqK;ri
+	
+- Slow Burn (American-Russian)
+
+	%%54|bEbpbQbRcWdffGj4mGmQmzo2ocofpCpDpErb;8UbqqUqVr9rc;7SbKbP;
 	
 - Yank Machine (American-British)
 
@@ -344,6 +352,12 @@ https://www.kards.com/decks/deck-builder
 
 	%%19|2Q2Z3136eYeZngnmnooNsj;2P3joOoP;2U3hrLrN;oQoX 
 	
+	%%19|2U393m3YeYn6n8ngnloNoPq9qbqgtqu0;3fnmq8tu;3hoDoQoXsj;
+	
+	- Naval Traps (German-Finnish) 
+		
+		%%19|3L3m3Q3Y444r4teYncngoPq9qbqdqgrLtfu0;2O3fnmoWoXq8;3hsjtu;
+	
 - Exp Blitz (German-French)
 
 	%%16|3Y40eYgJoSq9qeqg;3j3Q3XjLnwoP;3f4poUq8qb;rV
@@ -420,12 +434,55 @@ https://www.kards.com/decks/deck-builder
 	
 	Standoff tactics
 	
-- Discard to Bomb
+- Discard to Bomb (Japanese-Russian)
 
 	%%34|5C636B7c7SnHnPp4p9qDqJqurk;788dg5qC;7476;6P84p3
 	
 	Use bombers or switch to tanks using Iron Victory 
 	
+- Big Mob (Russian-French) 
+
+	%%46|2E7H7S8E8g8U95999zgbjEjYlGlHnqo0oIppq6qUrR;8c8Fli;;7W9mrg
+	
+	Mobilize units and give them "cannot retreat or be suppressed" 
+
+- Mo Coverts (Russian-American)
+
+	%%45|7R7S8c8e8g8U91o5o6pKpmpqptpu;oepApHps;gbpFpn;7Hpv 
+	
+	- Covert Deuces (Russian-American)
+
+		%%45|8C8Tfxo5pppw;7HfriQoepapKpmpnpspu;pFpHpv;pt
+		
+	- Extra Coverts
+
+		%%45|7R7S7W8c8g8U949bcQcWoeohpApKpmpppqpspuqT;gbo6pH;pnptpv;7H
+	
+- Soup and Salad (Russian-American)
+
+	%%45|8g9xbPcWohppqVrj;9l9nfrgbnUo6rg;9mbKiQ;7H8I 
+	
+	- So Typical (Russian-American)
+
+		%%45|7M7V828c8g9lbQpDpwrjstu8;7H889nbqnUo6;8I8U9mgbrg;
+	
+- Tough as nails (German-Finnish)
+
+	%%19|2L2P3b3YlNlUngnjnwoK;3f3j3X43fQoPq9qhrPsj;3hrLrN; 
+	
+- Another Ratchet (Russian-Italian)
+
+	%%47|8B8C8c8e8g8V919496fVjslem0mToYppqLqoqTqVrj;888UhGpq;7SfX;7H
+	
+- Joe Lemma (British American) 
+
+	%%25|060b0d0l1dohoupCpDtU;0obPbq;08091kovsC;bKtT 
+	
+- Carry Brewsters (American-Italian)
+
+	%%57|5i5pbRsKu8uD;blbqd4ohs5sIsusv;bIsHu6;sGst
+
+
 ### Other Cool Decks 
 
 - Nerf Self (Japanese-American)
@@ -450,6 +507,8 @@ https://www.kards.com/decks/deck-builder
 - So Many Joes (British-Russian)
 
 	2025_06_02 : %%24|0E0F0m1B1l1m7R7W8B9keGiQoootouoxpOpV;090o0q;080b1k7Hov;
+	
+	2025_06_16 : %%25|04090b0d1lbDbQbnn3odotoxoy;060qgpn1oupCpJ;0o1khMov;
 
 - Intelli Comms (British-Polish)
 
@@ -489,6 +548,10 @@ https://www.kards.com/decks/deck-builder
 
 	2025_05_28 : %%58|bBbEbIbObPbQbRcvd4d6dadfdhfGjro6ohpBpCpJqFqGr9rarb;bKbqd7iJjpmlrc;;
 	
+	- Mostly Shermans (American-Italian)
+
+		2025_06_21 : %%57|575j5pbBbEbqbRcWdfo6ocoeohoYpEpGqWqZr4r9s5;bKbPfXqGqorb;d4rc;
+	
 - So Covert (Russian-Japanese)
 
 	2025_06_01 : %%43|5R6C7J7R8ggbiQp4pfpuqqqT;7l7O8F9eaXp8pmpopt;7Hpnpv;
@@ -508,6 +571,12 @@ https://www.kards.com/decks/deck-builder
 	2025_06_06 : %%45|7S8c8g949l9p9rbPjsjYoeohpoqKqRqTrj;8U9nbKiLo6;7HqWrgri;
 	
 	2025_06_11 : %%45|7S8c8g949l9p9rbPjsoeohpoqKqRqSqTrj;8U9nbKiLo6;7HqWrgri;
+	
+	2025_06_11 : %%45|7S8c8g949b9l9pbPjsoeohpoqKqRqSqTrj;8U9nbKiLo6;7HqWrgri;
+	
+	- LoT 06-03 Mod 
+	
+		2025_06_14 : %%45|7R7S8c8g8U9b9xbqiLiQiZjsnVoeohpEpoqKqRqSqTr7rj;7H9n9pbKo6qWrgri;;
 
 <br>
 
