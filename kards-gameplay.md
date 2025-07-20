@@ -50,447 +50,608 @@ https://www.kards.com/decks/deck-builder
 
 ### Saved Decks
 
-- Kraken Ascent (Japanese-British)
+- **German (1)**
 
-	%%32|0406175C5F5R5Z636B6C6Q797deHgpipm4n1nInPotoxp6p8p9qAqDqqqtqxrk;5uhDouqC;; 
+	- British (2) 
 	
-- Discard and Push (Japanese-Russian)
-
-	%%34|5CjQ;g5p4p9peqp;5N5R78p1p6;7OnJp3
+	- Japanese (3) 
 	
-- OpCosts (American-British)
+		- Frontier Aunties  (German-Japanese)
 
-	%%52|06080d0nbEbPbRdfdkfGn1n2o8o9obofpCpDpEpLr4r9rerf;bKbrpJrc;oe;mU  
+			%%13|2Q2S3m3Q4A4rnIoPq9qf;3X5Z6xqvqx;4p4v7lnuqb;oX
+			
+	- Russian (4)
 	
-	Similar one can be built with US-French categories
+		- Veterans (German-Russian)
 
-- Long-shore Aerial	(British-Japanese)
-
-	%%23|0b14151D1L1u5y7cmgre;0c1aopp4;1O1oqv;0708qp  
+			%%14|2T2X7PmAmv;4tlQlUlVmzq7qe;lMntnuqU;4wrg
+			
+	- American (5)
 	
-- Soviet Ratchet (Russian-Polish)
+		- Exp Routers (German-American)
 
-	%%48|h5iVnU;7N8UiJiQmlo4pj;9nrg;7H8Igbri  
+			%%15|2L2Q3X3Y404m4zqltdtgu0;3jbPnwodoPpCpEq9tr;lKtv;bK
 	
-- Zero out enemy d (Japanese-French)
+	- French (6)
+	
+		- Tiny Tots (German-French)
 
-	%%36|2n5C61636BnPqDrk;7c7dgJgQnOnQp6p9;nr;m4oGqz  
-	
-	Similar one can be built with German-French categories 
-	
-	- FooBar (British-French)
-
-		%%26|gJgvjelroopO;06n2oGotpWrd;0E2xpV;0dnrpU
-	
-	- Under Pinned (Japanese-French)
-
-		%%36|5C636X757tnQqD;2i5YgJp4p9;61p6;m4nroGqz
-	
-	- Draw Down (Japanese-French)
-
-		%%36|5C5w636B6XfmgQjjmcnPp9;5u61gJnQ;62m4nOqz;nroG
+			%%16|2O2Q2Y3Q3W3YgJgSlW;2S2W4AlOoPqbqg;2V3f414p;rV	
 		
-		%%36|2n5u5w636B79mgnRqC;5Y61nOp4;2ip6;m4nroGqz
+			Another way to flood the fields with infantry and then air-drop support 
+			
+		- Exp Blitz (German-French)
+
+			%%16|3Y40eYgJoSq9qeqg;3j3Q3XjLnwoP;3f4poUq8qb;rV
+	
+	- Italian (7)
+	
+		- Blitzi Alpini (German-Italian)
+
+			%%17|2O2S2W3M3m3Q3V3Y414p4r4v575eeYfXi5lelMnAnunyoMoPoSoUoWoXoYqbqeqgqo;5snxq9;;
 		
-		destroy all units and empty the opponent's deck
+			Alpine units to the max 
 	
-- Super Heavy (Russian-American)
+		- Vanguard Alpine (German-Italian) 
 
-	%%45|8g8i9c9n9tnVpEpl;7P7R7S9l9pbPiZjurg;iJiLqK;ri  
-	
-	%%45|7R8c8g949b9c9n9tbKbPjsnVpEplqTqWrj;7S9l9piJiZrg;iLqK;ri
-	
-- Slow Burn (American-Russian)
-
-	%%54|bEbpbQbRcWdffGj4mGmQmzo2ocofpCpDpErb;8UbqqUqVr9rc;7SbKbP;
-	
-- Yank Machine (American-British)
-
-	%%52|060obRcKdffJoboepBpy;j4mUpCpEpL;080dbPpJrc;bK
-	
-- Smokey Tactics (American-Japanese)
-
-	%%53|5N5y6KbBbIbJbPbQcAcDcGcvd5fGieiij4mGo9ohqvr9rn;d7daipobodqrqxrc;;
-	
-	Similar one can be built with Japanese-American categories 
-	
-	- Smokin French (Japanese-French)
-
-		%%36|2C2E2v5F5H6B6M6U6x76797c7d7iiiijikjEjPlFlHlIm6mcmhnLnqpfqxrSrU;5Z6Kieip;;  
+			%%17|2Q2Z3M3Y4zqaql;2T3Q5e5nfWnAnyq7q9;lenF;i5nx
 		
-		Smokey defense with mobilized offense 
-	
-- Keep On Rolling (Japanese-British)
+		- Mo Alpine (German-Italian)
 
-	%%32|0n1u5C62646Cp2p9;030d5R78ltnOp4pe;085yp1p3p6; 
-	
-	Discard cards till Yamamoto is obtained and then use aerial blitz with Hermes
-	
-	- Enormous Plans
+			%%17|2Y2Z3b3eeYfQnAnEoSq9;2T2X3Q3Xqh;5e;5hi5nFnx
+			
+		- Newer Alpine (German-Italian)
 
-		%%32|0n5C5R5y62646Cltp2pc;086L6xnLp4peqCqv;78p1p6;p3
+			%%17|3meY;2S3MnAnEnyq9;4p5ele;5hi5nxq7
 		
-		Land Air Sea, Yamamoto, Hermes, Great Expanse, 40th Cavalry 
+	- Polish (8)
 	
-- Intell To The Max (British-Polish) 
-
-	%%28|0b0F0l0o0q1B1D1liDiHiMitjnjojTjUlDmimjorouovs3;1R1Wiwjfpg;1koA;  
+	- Finnish (9) 
 	
-	British commandos with Polish defensive offence 
+		- Snatchers (German-Finnish)
 
-- Salvage Crew (Japanese-Finnish)
-
-	%%39|5u5Z62676B75fZkFmgn8ncndnfngnInMnnqDrk;5N6C6L6S6x78p3;ninO;  	
+			%%19|2L2P3e3j3m3N3Y4seYnDngnonwq9qbrP;3f3h3XjLoPoUqjrLrNsj;oX;
 	
-	- Entrenched Salvagers (British-Finnish)
-
-		%%29|1ilroEotpNpOpUpWrdre;06171HmVnangoDoF;mUmWnn;n2
+			Snatch cards from opponents deck 
 		
-	- Mega Salvage (British-Finnish)
+		- Smack n Snatch (German-Finnish)
 
-		%%29|060B0FgvhEmZnfnj;mUmVn9nannoFouoxsj;lxmWn2;17
+			%%19|2L3j3Y4slPlUoKoPq9qdrK;2W43fQqcrLrP;3hoXqhsj;rN
+			
+		- Mostly Traps (German-Finnish) 
+
+			%%19|2Q2Z3136eYeZngnmnooNsj;2P3joOoP;2U3hrLrN;oQoX 
+			
+			%%19|2U393m3YeYn6n8ngnloNoPq9qbqgtqu0;3fnmq8tu;3hoDoQoXsj;
 	
-- Pol D Medic (American-Polish)
+		- Naval Traps (German-Finnish) 
+			
+			%%19|3L3m3Q3Y444r4teYncngoPq9qbqdqgrLtfu0;2O3fnmoWoXq8;3hsjtu;
+			
+		- Blitz Twice (German-Finnish)
 
-	%%58|bEbPcKcvcYd5fGitizjqk6mCmQnSo9r9;bnj4k5ohpCqFrc;bQiJml;  
-	
-- Blitzing Guards (British-American)
+			%%19|2L3b3e3N3X3YjhoUrKrP;3j4slUngnwoPoXq9qhsj;3hrLrN;
+			
+		- Exp Admiralty (German-Finnish)
 
-	%%25|060m1D1HmRpPpSpVpWq0rd;0n1ibKbPbqjBlqmUrc;n2oe;pN  
-	
-- Gorilla Mansion (Russian-British)
+			%%19|2L2S3N3Y4slUnDng;3f3Q3S3X4G4qnbnwoPq3q9;4p4vnl;
+			
+		- Tough as nails (German-Finnish)
 
-	%%42|frmto0qLqTrj;0o8U9n9zpqpW;080d7H7J888IiQ;  
-	
-	Massive fortification with Russian cavalry and tanks for offensive blitz 
-	
-- Zeros (Russian-American)
+			%%19|2L2P3b3YlNlUngnjnwoK;3f3j3X43fQoPq9qhrPsj;3hrLrN;
+			
+		- Leo Wolf Bizmarck (German-Finnish)
 
-	%%45|8CbJnWo0o5pkqT;8F;bNiR;7F7H848Ho1r1  
-	
-	Flood the fields with infantry and then air-drop support 
-
-	- Tiny Tots (German-French)
-
-		%%16|2O2Q2Y3Q3W3YgJgSlW;2S2W4AlOoPqbqg;2V3f414p;rV	
+			%%19|2P2Q343m4f4q4zfQlUn6n8nbnDngoUoXq3q8q9qhrPsjtp;3jnwoDoPtv;3hrL;
 		
-		Another way to flood the fields with infantry and then air-drop support 
-	
-- Proud Shermans (American-Russian)
 
-	%%54|bEbPbRd3jvk5oeof;7HcWd4o6ohr9;qWr4rbrcrg;bK  
-	
-	Continuous production line of Shermans 
-	
-- Shermans IT (American-Italian)
+- **British (2)**
 
-	%%57|57bEbRcWfVmPo6ocoYqWrn;bPfXk5oeqGqor4r9rb;d4rc;bK
+	- German (1) 
 	
-- Max Retribution (American-British)
+		- Cruising Comms (British-German)
 
-	%%52|04bRcKcpcZdkfGjvo9otpCr8rc;06o6ofpDpEpL;bPmU;bKpJ  
+			%%21|060B0d0F0o1D1m3jgvlrmUoUq9rd;090b0qoPouox;080nov;oX
+			
+			Commandos and standoff tactics 
 	
-- Victory Lap (American-British)
+	- Japanese (3) 
+	
+		- Long-shore Aerial	(British-Japanese)
 
-	%%52|04bEbRbTcIcKcPcWfGfJfKj7k5k6mCmEmKmQo6ocpCpHpJpLr3rd;06ob;bKbPmU;  
-	
-- Armored Terribles (American-Russian)
+			%%23|0b14151D1L1u5y7cmgre;0c1aopp4;1O1oqv;0708qp
+			
+		- Air Blitz (British-Japanese)
 
-	%%54|bEbqcKcUcWj4k6mPohpLqUqVr4rc;7RbQk5ra;fKo6o7;d4rg  
+			%%23|0c0h0i1D1m1r1t5t5u5w79eGeHnRqq;1a5Nltqp;081O1olC;07  
+			
+			Flood the fields with aerial units and then use close air support
+			
+	- Russian (4)
+			
+	- American (5)
 	
-	- Bolstered Terribles (American-French)
+		- Blitzing Guards (British-American)
 
-		%%56|bEbTmKmPoaocod;2EcKofq6qFr6;gLo7pCqW;fKra
-	
-		Very difficult to defeat 
-	
-- Blitzi Alpini (German-Italian)
+			%%25|060m1D1HmRpPpSpVpWq0rd;0n1ibKbPbqjBlqmUrc;n2oe;pN
+			
+		- Ultra Snipers (British-American)
 
-	%%17|2O2S2W3M3m3Q3V3Y414p4r4v575eeYfXi5lelMnAnunyoMoPoSoUoWoXoYqbqeqgqo;5snxq9;;
-	
-	Alpine units to the max 
-	
-	- Vanguard Alpine (German-Italian) 
+			%%25|04060B0F0nbKeGeHhMj4ooospE;090b0o0q1kbPbrhDotou;08ov;
+			
+		- Mo Commandos (British-American)
 
-		%%17|2Q2Z3M3Y4zqaql;2T3Q5e5nfWnAnyq7q9;lenF;i5nx
-	
-- Air Blitz (British-Japanese)
+			%%25|040m0o1dbPbQeHhEoroypE;091mbqouoxrc;080b1kov;bK
+			
+		- Bake Range Joes (British-American)
 
-	%%23|0c0h0i1D1m1r1t5t5u5w79eGeHnRqq;1a5Nltqp;081O1olC;07  
-	
-	Flood the fields with aerial units and then use close air support 
-	
-	- Air Blitz IT (British Italian)
+			%%25|0B0E0F0l0m0qeGeHgvhDlrofooorotpS;hMmUoupE;08091kbKov;
+			
+		- Waves of Comms (British-American)
+			
+			%%25|0m0qbDbqeGgvlrofoopDpOpS;1mbPbSou;08090o1kov;bK
+			
+		- Joe Lemma (British American) 
 
-		%%27|060F0i0m1a1D1K1O1r1u1whDlCoxozrd;081o1t5js5;fXjqop;07
-	
-	- Macchi Blitz (British-Italian)
+			%%25|060b0d0l1dohoupCpDtU;0obPbq;08091kovsC;bKtT
+			
+		- Double Hermes (British-American)
 
-		%%27|0F0o1a1DfVgv;090b0E;0p1o1O5i5m;07ops5
-	
-- Anything But (Russian-Polish) 
+			%%25|061a1DbqgvpO;1ubJbQd7ltox;1o1Odl;0708op
+			
+		- Bombers (British-American)
 
-	%%48|h5pkppqLs0;7R8F9k9ziJonpqqF;7H888Ujpmlrh; 
+			%%25|0F1a1D1r1tdhdnhDn1ofop;0b0d1o1O1u1wcHcKcNpD;;071L
+			
+	- French (6)
 	
-	Polish exile guard with full mechanized support 
-	
-- Jager Bomb (American-Finnish)
+		- FooBar (British-French)
 
-	%%59|bEbRdedkfGmKoepC;bPbQbqngofpDpErKrP;n8rcsj;bK  
+			%%26|gJgvjelroopO;06n2oGotpWrd;0E2xpV;0dnrpU
+			
+			Empty enemy deck, similar to Japanese-French decks 
+			
+	- Italian (7) 
 	
-	Very difficult to defeat 
-	
-- Classic Blitz (Japanese-German)
+		- Air Blitz IT (British-Italian)
 
-	%%31|3Q5C6B6C6L6ymgnInPnwqbqhqq;3ginqCqDqv;3f4p6x7l;5Z  
+			%%27|060F0i0m1a1D1K1O1r1u1whDlCoxozrd;081o1t5js5;fXjqop;07
+	
+		- Macchi Blitz (British-Italian)
 
-- Supported Blitz (Japanese-American)
+			%%27|0F0o1a1DfVgv;090b0E;0p1o1O5i5m;07ops5
+			
+			Low cost Italian air units with British air support
+	
+	- Polish (8) 
+	
+		- Intell To The Max (British-Polish) 
 
-	%%35|5C5u6B6C79lknNqqqr;5Q5R6x7a7lbIbObq;5ZnO;qpqv  
-	
-	%%35|5C676C6XbDbpnI;bObqp6;bIpB;5Q5R5Zqpqv
-	
-- Ultra Snipers (British-American)
+			%%28|0b0F0l0o0q1B1D1liDiHiMitjnjojTjUlDmimjorouovs3;1R1Wiwjfpg;1koA;
+			
+			British commandos with Polish defensive offence 
+			
+		- Intelli Joes (British-Polish)
 
-	%%25|04060B0F0nbKeGeHhMj4ooospE;090b0o0q1kbPbrhDotou;08ov;  
+			%%28|0F0l0q19eGeHgFjToupO;0309iujnqE;0b1khMovpg;08
 	
-- Cruising Comms (British-German)
+	- Finnish (9)
+	
+		- Entrenched Salvagers (British-Finnish)
 
-	%%21|060B0d0F0o1D1m3jgvlrmUoUq9rd;090b0qoPouox;080nov;oX
-	
-- Snatchers (German-Finnish)
-
-	%%19|2L2P3e3j3m3N3Y4seYnDngnonwq9qbrP;3f3h3XjLoPoUqjrLrNsj;oX;  
-	
-	Snatch cards from opponents deck 
-	
-	- Smack n Snatch (German-Finnish)
-
-		%%19|2L3j3Y4slPlUoKoPq9qdrK;2W43fQqcrLrP;3hoXqhsj;rN  
-	
-- Mo Alpine 
-
-	%%17|2Y2Z3b3eeYfQnAnEoSq9;2T2X3Q3Xqh;5e;5hi5nFnx
-	
-- Mo Commandos (British-American)
-
-	%%25|040m0o1dbPbQeHhEoroypE;091mbqouoxrc;080b1kov;bK
-	
-- Waves of Comms
-	
-	%%25|0m0qbDbqeGgvlrofoopDpOpS;1mbPbSou;08090o1kov;bK
-
-- Mo Hum Pontoon (British-American)
-
-	%%52|0bbRfG;bqbtbwcBpG;0yqW;1nbIbObupZ  
-	
-	Blitz with shock and fury  
-	
-- Double Hermes (British-American)
-
-	%%25|061a1DbqgvpO;1ubJbQd7ltox;1o1Odl;0708op
-	
-- Red White Black (British-Finnish)
-
-	%%29|0m1d1ghDjBmUmYn8ncpOpWrd;0ingpNpP;171ilqoDpV;pU  
-	
-	Serious ouchies: Monty's boys, double white death, black watch
-	
-- Bombers (British-American)
-
-	%%25|0F1a1D1r1tdhdnhDn1ofop;0b0d1o1O1u1wcHcKcNpD;;071L
-	
-- So Lo Mo (Russian-French)
-
-	%%46|2C2E2H2v2z7N7P888C8S9497999b9mgJgQh5haiUjEjYlFmtpppqqFqTqVrjrS;iJiLpvrg;;
-	
-- Quick Ascent (Japanese-American)
-
-	%%35|6B6y7ifbipnPqqqrqZrk;797lbIbqnIobohqCqx;bO;5Zqv  
-	
-- Frontier Aunties  (German-Japanese)
-
-	%%13|2Q2S3m3Q4A4rnIoPq9qf;3X5Z6xqvqx;4p4v7lnuqb;oX 
-	
-- Escort Tricks (American-French)
-
-	%%57|bEbPcOfXoepDpEqmqWr9;o6qGrY;d4k5pCr4rb;bKrc
-	
-- Focus 101 (Russian-French)
-
-	%%47|7E8C8g919d9xfrfVm0mko4o5oYpkpwpxqLqoqT;7SmT;9mfXonrg;7H  
-	
-- Veterans (German-Russian)
-
-	%%14|2T2X7PmAmv;4tlQlUlVmzq7qe;lMntnuqU;4wrg
-	
-- Coverts (Japanese-Russian)
-
-	%%34|5u676B6C6y7Rmgp9puqAqDqqqV;5Z6x7lnIp8pfpmptpvqv;aXpn;  
-	
-	Anti-blitz, very difficult to kill without heavy units.  
-	
-- Ultra Air Raid (British-Finnish)
-
-	%%29|060B0h1a1d1D1mmZn6ngospOpP;n1otpWrLrNsj;1O1o;07op 
-	
-- Japanese Comms (Japanese-British)
-
-	%%32|5CnP;08oup4p9pe;0378ovp1p6;5Rmbp3
-	
-- Fortune Slots (Japanese American)
-
-	%%35|5A5Cp2;6C7smEnInJp3p4p9perc;78p1p6pc;5N
-	
-- Hardcore (Russian-American)
-
-	%%45|8C8go5qLqTrj;7RiZoe;7S9n9po6qR;bKrgri
-	
-- Gladiators (American-Italian)
-
-	%%57|bRcDdffGk6;5aofp0pDpLqW;fXle;bKd7fKpE
-	
-	Add to HQ defense using alpine guards and add attack to guards using Spirit of Rome
-	
-- Mostly Traps (German-Finnish) 
-
-	%%19|2Q2Z3136eYeZngnmnooNsj;2P3joOoP;2U3hrLrN;oQoX 
-	
-	%%19|2U393m3YeYn6n8ngnloNoPq9qbqgtqu0;3fnmq8tu;3hoDoQoXsj;
-	
-	- Naval Traps (German-Finnish) 
+			%%29|1ilroEotpNpOpUpWrdre;06171HmVnangoDoF;mUmWnn;n2
 		
-		%%19|3L3m3Q3Y444r4teYncngoPq9qbqdqgrLtfu0;2O3fnmoWoXq8;3hsjtu;
-	
-- Exp Blitz (German-French)
+		- Mega Salvage (British-Finnish)
 
-	%%16|3Y40eYgJoSq9qeqg;3j3Q3XjLnwoP;3f4poUq8qb;rV
-	
-- So Clever (Russian-Italian)
+			%%29|060B0FgvhEmZnfnj;mUmVn9nannoFouoxsj;lxmWn2;17
+			
+			Similar to Salvage Crew (Japanese-Finnish)
+			
+		- Red White Black (British-Finnish)
 
-	%%47|575j8C8e8g9xhGjMo0oYpkqLqTrg;7E8Ufron;7H7SfX;9mqo
+			%%29|0m1d1ghDjBmUmYn8ncpOpWrd;0ingpNpP;171ilqoDpV;pU  
+			
+			Serious ouchies: Monty's boys, double White Death, Black Watch
+			
+		- Ultra Air Raid (British-Finnish)
 
-- Exp Covert (American-Russian)
+			%%29|060B0h1a1d1D1mmZn6ngospOpP;n1otpWrLrNsj;1O1o;07op
+			
+		- Guard Garrison (British-Finnish)
 
-	%%54|bEbPbRbTo9ohpapJpLpy;bKj4pApCpDpEpFpqpspupv;pH;pn
-	
-- 20K (American-British)
+			%%29|0E0F0f0i0m1D1g1mgshDiqjBlqlxmUn6n8nancngoooupNpOpPpWrd;1ioDox;pUpV;
 
-	%%52|06080lbEbqbRbTcWdkfGmK;oeofotpDr4r9rc;bPmU;bKpE
-	
-	Build kredit slots up to 20 
-	
-- Guard Garrison (British-Finnish)
+- **Japanese (3)**
 
-	%%29|0E0F0f0i0m1D1g1mgshDiqjBlqlxmUn6n8nancngoooupNpOpPpWrd;1ioDox;pUpV;
+	- German (1)
 	
-- Engineer Legions (Russian-Polish)
+		- Classic Blitz (Japanese-German)
 
-	%%48|868C8e8g959b9jh5iAjmjso5pgpkppqLqT;7SiJmis0;8c8U;9nit
-	
-- Quick Stream (American-German)
+			%%31|3Q5C6B6C6L6ymgnInPnwqbqhqq;3ginqCqDqv;3f4p6x7l;5Z  
+			
+		- Remote Orders (Japanese-German)
 
-	%%51|2O3Q4vbBbEbKcpj7nuoMpCpGq9qgqZrb;2SbqcWrc;4pd4d7dloh;
+			%%31|5C6O6Ymgrk;2Z72eWoXp9;2O7knNq8;5R62mb
 	
-	%%51|2O2S3Q4vbBbEbKbOcpgLj7nuoMpCpDpGq9qgqZrb;4pbqcWd7dlohq8rc;d4;
-	
-	Blitz with infantry and Shermans 
-	
-- Exp Air Wolves (Japanese-Italian)
+			Standoff tactics
 
-	%%37|646Mm6mgnGp5qtrkrW;5A5y6K6V787cfVfXinjMqus4;6Ys5;
-	
-	Next level air blitz 
-	
-- Rolladeck of Joe (Japanese-British)
+	- British (2) 
 
-	%%32|085CeHm6;0n5Roup4p9pe;0378ovp1p6;mbp3
-	
-- Blitz Twice (German-Finnish)
+		- Kraken Ascent (Japanese-British)
 
-	%%19|2L3b3e3N3X3YjhoUrKrP;3j4slUngnwoPoXq9qhsj;3hrLrN;
-	
-- Exp Admiralty (German-Finnish)
+			%%32|0406175C5F5R5Z636B6C6Q797deHgpipm4n1nInPotoxp6p8p9qAqDqqqtqxrk;5uhDouqC;;
 
-	%%19|2L2S3N3Y4slUnDng;3f3Q3S3X4G4qnbnwoPq3q9;4p4vnl;
-	
-- Top Special (American-French)
+		- Keep On Rolling (Japanese-British)
 
-	%%56|bEbTcPcZfGoIpzrn;2kgjgQodoeofpCpDpErTrV;bKbPqW; 
-	
-	Only two heavy American attacking units with French diversion 
-	
-- Nara Artillery (Japanese-American)
-
-	%%35|5S6B6M6UbDbud3m7nNrcrk;6A6H6Y70gLilio;ohqW;5Rmb
-	
-- Bake Range Joes (British-American)
-
-	%%25|0B0E0F0l0m0qeGeHgvhDlrofooorotpS;hMmUoupE;08091kbKov;
-	
-- Intelli Joes (British-Polish)
-
-	%%28|0F0l0q19eGeHgFjToupO;0309iujnqE;0b1khMovpg;08
-	
-- Remote Orders (Japanese-German)
-
-	%%31|5C6O6Ymgrk;2Z72eWoXp9;2O7knNq8;5R62mb
-	
-	Standoff tactics
-	
-- Discard to Bomb (Japanese-Russian)
-
-	%%34|5C636B7c7SnHnPp4p9qDqJqurk;788dg5qC;7476;6P84p3
-	
-	Use bombers or switch to tanks using Iron Victory 
-	
-- Big Mob (Russian-French) 
-
-	%%46|2E7H7S8E8g8U95999zgbjEjYlGlHnqo0oIppq6qUrR;8c8Fli;;7W9mrg
-	
-	Mobilize units and give them "cannot retreat or be suppressed" 
-
-- Mo Coverts (Russian-American)
-
-	%%45|7R7S8c8e8g8U91o5o6pKpmpqptpu;oepApHps;gbpFpn;7Hpv 
-	
-	- Covert Deuces (Russian-American)
-
-		%%45|8C8Tfxo5pppw;7HfriQoepapKpmpnpspu;pFpHpv;pt
+			%%32|0n1u5C62646Cp2p9;030d5R78ltnOp4pe;085yp1p3p6; 
+			
+			Discard cards till Yamamoto is obtained and then use aerial blitz with Hermes
 		
-	- Extra Coverts
+		- Enormous Plans (Japanese-British)
 
-		%%45|7R7S7W8c8g8U949bcQcWoeohpApKpmpppqpspuqT;gbo6pH;pnptpv;7H
+			%%32|0n5C5R5y62646Cltp2pc;086L6xnLp4peqCqv;78p1p6;p3
+			
+			Land Air Sea, Yamamoto, Hermes, Great Expanse, 40th Cavalry 
+			
+		- Japanese Comms (Japanese-British)
+
+			%%32|5CnP;08oup4p9pe;0378ovp1p6;5Rmbp3
+			
+		- Rolladeck of Joe (Japanese-British)
+
+			%%32|085CeHm6;0n5Roup4p9pe;0378ovp1p6;mbp3
 	
-- Soup and Salad (Russian-American)
-
-	%%45|8g9xbPcWohppqVrj;9l9nfrgbnUo6rg;9mbKiQ;7H8I 
+	- Russian (4)
 	
-	- So Typical (Russian-American)
+		- Discard and Push (Japanese-Russian)
 
-		%%45|7M7V828c8g9lbQpDpwrjstu8;7H889nbqnUo6;8I8U9mgbrg;
+			%%34|5CjQ;g5p4p9peqp;5N5R78p1p6;7OnJp3
+			
+		- Discard to Bomb (Japanese-Russian)
+
+			%%34|5C636B7c7SnHnPp4p9qDqJqurk;788dg5qC;7476;6P84p3
+			
+			Use bombers or switch to tanks using Iron Victory
+			
+		- Coverts (Japanese-Russian)
+
+			%%34|5u676B6C6y7Rmgp9puqAqDqqqV;5Z6x7lnIp8pfpmptpvqv;aXpn;  
 	
-- Tough as nails (German-Finnish)
+			Anti-blitz, very difficult to kill without heavy units
+			
+		- Rush (Japanese-Russian) 
 
-	%%19|2L2P3b3YlNlUngnjnwoK;3f3j3X43fQoPq9qhrPsj;3hrLrN; 
+			%%34|5C5R66676B7H88mgp5tDtO;6C7a9vnIqv;6x7l;5Zt9tl
+			
+	- American (5)
 	
-- Another Ratchet (Russian-Italian)
+		- Supported Blitz (Japanese-American)
 
-	%%47|8B8C8c8e8g8V919496fVjslem0mToYppqLqoqTqVrj;888UhGpq;7SfX;7H
+			%%35|5C5u6B6C79lknNqqqr;5Q5R6x7a7lbIbObq;5ZnO;qpqv  
+			
+			%%35|5C676C6XbDbpnI;bObqp6;bIpB;5Q5R5Zqpqv
+			
+		- Quick Ascent (Japanese-American)
+
+			%%35|6B6y7ifbipnPqqqrqZrk;797lbIbqnIobohqCqx;bO;5Zqv
+			
+		- Fortune Slots (Japanese-American)
+
+			%%35|5A5Cp2;6C7smEnInJp3p4p9perc;78p1p6pc;5N
+			
+		- Nara Artillery (Japanese-American)
+
+			%%35|5S6B6M6UbDbud3m7nNrcrk;6A6H6Y70gLilio;ohqW;5Rmb
+					
+	- French (6) 
 	
-- Joe Lemma (British American) 
+		- Zero out enemy d (Japanese-French)
 
-	%%25|060b0d0l1dohoupCpDtU;0obPbq;08091kovsC;bKtT 
+			%%36|2n5C61636BnPqDrk;7c7dgJgQnOnQp6p9;nr;m4oGqz  
+			
+			Similar one can be built with German-French categories 
+		
+		- Under Pinned (Japanese-French)
+
+			%%36|5C636X757tnQqD;2i5YgJp4p9;61p6;m4nroGqz
+		
+		- Draw Down (Japanese-French)
+
+			%%36|5C5w636B6XfmgQjjmcnPp9;5u61gJnQ;62m4nOqz;nroG
+			
+			%%36|2n5u5w636B79mgnRqC;5Y61nOp4;2ip6;m4nroGqz
+			
+			destroy all units and empty the opponent's deck
+			
+		- Smokin French (Japanese-French)
+
+			%%36|2C2E2v5F5H6B6M6U6x76797c7d7iiiijikjEjPlFlHlIm6mcmhnLnqpfqxrSrU;5Z6Kieip;;  
+			
+			Smokey defense with mobilized offense, similar to Smokey Tactics (American-Japanese)
 	
-- Carry Brewsters (American-Italian)
-
-	%%57|5i5pbRsKu8uD;blbqd4ohs5sIsusv;bIsHu6;sGst 
+	- Italian (7)
 	
-- Guard Factories (Russian-French) 
+		- Exp Air Wolves (Japanese-Italian)
 
-	%%46|868ih3jsqLqTtm;qI;7Stj;9n9po4oGritl
+			%%37|646Mm6mgnGp5qtrkrW;5A5y6K6V787cfVfXinjMqus4;6Ys5;
+			
+			Next level air blitz
+	
+	- Polish (8)
+	
+		- Legions Plus Intell (Japanese-Polish)
 
+			%%38|5C666BiHm6mcmgnOphqDrktCtMu9uy;5YiDnIqCtQ;jPtG;itpg
+	
+	- Finnish (9)
+	
+		- Salvage Crew (Japanese-Finnish)
 
+			%%39|5u5Z62676B75fZkFmgn8ncndnfngnInMnnqDrk;5N6C6L6S6x78p3;ninO;
+			
+- **Russian (4)**
+
+	- German (1)
+	
+	- British (2)
+	
+		- Gorilla Mansion (Russian-British)
+
+			%%42|frmto0qLqTrj;0o8U9n9zpqpW;080d7H7J888IiQ;  
+			
+			Massive fortification with Russian cavalry and tanks for offensive blitz
+	
+	- Japanese (3)
+	
+		- So Covert (Russian-Japanese)
+
+			%%43|5R6C7J7R8ggbiQp4pfpuqqqT;7l7O8F9eaXp8pmpopt;7Hpnpv;
+	
+	- American (5)
+	
+		- Hardcore (Russian-American)
+
+			%%45|8C8go5qLqTrj;7RiZoe;7S9n9po6qR;bKrgri
+			
+		- Super Heavy (Russian-American)
+
+			%%45|8g8i9c9n9tnVpEpl;7P7R7S9l9pbPiZjurg;iJiLqK;ri  
+			
+			%%45|7R8c8g949b9c9n9tbKbPjsnVpEplqTqWrj;7S9l9piJiZrg;iLqK;ri
+			
+		- Zeros (Russian-American)
+
+			%%45|8CbJnWo0o5pkqT;8F;bNiR;7F7H848Ho1r1  
+			
+			Flood the fields with infantry and then air-drop support
+			
+		- Mo Coverts (Russian-American)
+
+			%%45|7R7S8c8e8g8U91o5o6pKpmpqptpu;oepApHps;gbpFpn;7Hpv 
+	
+		- Covert Deuces (Russian-American)
+
+			%%45|8C8Tfxo5pppw;7HfriQoepapKpmpnpspu;pFpHpv;pt
+		
+		- Extra Coverts
+
+			%%45|7R7S7W8c8g8U949bcQcWoeohpApKpmpppqpspuqT;gbo6pH;pnptpv;7H
+	
+		- Soup and Salad (Russian-American)
+
+			%%45|8g9xbPcWohppqVrj;9l9nfrgbnUo6rg;9mbKiQ;7H8I 
+			
+		- So Typical (Russian-American)
+
+			%%45|7M7V828c8g9lbQpDpwrjstu8;7H889nbqnUo6;8I8U9mgbrg;
+			
+		- Ruso-American (Russian-American) 
+
+			%%45|7S868g9lbqginUo6odohpppxqHqZt7;8U9nrgtl;898I9mgb;7H
+			
+		- Converter (Russian-American) 
+
+			%%45|8g8T91pDpqtathtj;bPt7t8t9u4;7H9mbKrgt6tlu3;
+	
+	- French (6)
+	
+		- So Lo Mo (Russian-French)
+
+			%%46|2C2E2H2v2z7N7P888C8S9497999b9mgJgQh5haiUjEjYlFmtpppqqFqTqVrjrS;iJiLpvrg;;
+			
+		- Big Mob (Russian-French) 
+
+			%%46|2E7H7S8E8g8U95999zgbjEjYlGlHnqo0oIppq6qUrR;8c8Fli;;7W9mrg
+	
+			Mobilize units and give them "cannot retreat or be suppressed"
+			
+		- Guard Factories (Russian-French) 
+
+			%%46|868ih3jsqLqTtm;qI;7Stj;9n9po4oGritl
+	
+	- Italian (7)
+	
+		- Focus 101 (Russian-Italian)
+
+			%%47|7E8C8g919d9xfrfVm0mko4o5oYpkpwpxqLqoqT;7SmT;9mfXonrg;7H
+			
+		- So Clever (Russian-Italian)
+
+			%%47|575j8C8e8g9xhGjMo0oYpkqLqTrg;7E8Ufron;7H7SfX;9mqo
+			
+			Covert tactics 
+			
+		- Another Ratchet (Russian-Italian)
+
+			%%47|8B8C8c8e8g8V919496fVjslem0mToYppqLqoqTqVrj;888UhGpq;7SfX;7H
+	
+	- Polish (8)
+	
+		- Soviet Ratchet (Russian-Polish)
+
+			%%48|h5iVnU;7N8UiJiQmlo4pj;9nrg;7H8Igbri
+			
+		- Anything But (Russian-Polish) 
+
+			%%48|h5pkppqLs0;7R8F9k9ziJonpqqF;7H888Ujpmlrh; 
+			
+			Polish exile guard with full mechanized support
+			
+		- Engineer Legions (Russian-Polish)
+
+			%%48|868C8e8g959b9jh5iAjmjso5pgpkppqLqT;7SiJmis0;8c8U;9nit
+	
+	- Finnish (9)
+	
+- **American (5)**
+
+	- German (1)
+	
+		- Quick Stream (American-German)
+
+			%%51|2O3Q4vbBbEbKcpj7nuoMpCpGq9qgqZrb;2SbqcWrc;4pd4d7dloh;
+			
+			%%51|2O2S3Q4vbBbEbKbOcpgLj7nuoMpCpDpGq9qgqZrb;4pbqcWd7dlohq8rc;d4;
+			
+			Blitz with infantry and Shermans
+	
+	- British (2)
+	
+		- OpCosts (American-British)
+
+			%%52|06080d0nbEbPbRdfdkfGn1n2o8o9obofpCpDpEpLr4r9rerf;bKbrpJrc;oe;mU  
+			
+			Similar one can be built with American-French categories
+			
+		- Yank Machine (American-British)
+
+			%%52|060obRcKdffJoboepBpy;j4mUpCpEpL;080dbPpJrc;bK
+			
+		- Max Retribution (American-British)
+
+			%%52|04bRcKcpcZdkfGjvo9otpCr8rc;06o6ofpDpEpL;bPmU;bKpJ
+			
+		- Victory Lap (American-British)
+
+			%%52|04bEbRbTcIcKcPcWfGfJfKj7k5k6mCmEmKmQo6ocpCpHpJpLr3rd;06ob;bKbPmU;
+			
+		- Mo Hum Pontoon (American-British)
+
+			%%52|0bbRfG;bqbtbwcBpG;0yqW;1nbIbObupZ  
+			
+			Blitz with shock and fury
+			
+		- 20K (American-British)
+
+			%%52|06080lbEbqbRbTcWdkfGmK;oeofotpDr4r9rc;bPmU;bKpE
+	
+			Build kredit slots up to 20
+			
+		- Morning Brew (American-British)
+
+			%%52|0306bCbQfGhDohpEpLpPsKsttY;opsHtTu6u8;bKblbPsI;sG
+
+		- Buffs (American-British) 
+
+			%%52|bIcCpCsy;0ybqbud7dlohqWqZrcrest;bKbOpM;sU
+			
+		- Strong ReBuffs (American-British)
+
+			%%52|080EbBbEbRcpfGk6obohpBpEqZr8;bIbqbupZrc;bOpMqWsUsv;
+			
+		- Jumpers (American-British)
+
+			%%52|bB;bNbqqWqZ;bIpB;bObuglohpMsU
+	
+	- Japanese (3)
+	
+		- Smokey Tactics (American-Japanese)
+
+			%%53|5N5y6KbBbIbJbPbQcAcDcGcvd5fGieiij4mGo9ohqvr9rn;d7daipobodqrqxrc;;
+			
+			Similar one can be built with Japanese-American categories 
+			
+		- Tough Cookie (American-Japanese) 
+
+			%%53|bEbicxfGpBpCpEpyqDr9;5YnNo9pL;bPp6rc;bKpJtQ
+	
+	- Russian (4)
+	
+		- Slow Burn (American-Russian)
+
+			%%54|bEbpbQbRcWdffGj4mGmQmzo2ocofpCpDpErb;8UbqqUqVr9rc;7SbKbP;
+			
+		- Proud Shermans (American-Russian)
+
+			%%54|bEbPbRd3jvk5oeof;7HcWd4o6ohr9;qWr4rbrcrg;bK  
+			
+			Continuous production line of Shermans
+			
+		- Armored Terribles (American-Russian)
+
+			%%54|bEbqcKcUcWj4k6mPohpLqUqVr4rc;7RbQk5ra;fKo6o7;d4rg
+
+		- Exp Covert (American-Russian)
+
+			%%54|bEbPbRbTo9ohpapJpLpy;bKj4pApCpDpEpFpqpspupv;pH;pn
+	
+	- French (6)
+	
+		- Bolstered Terribles (American-French)
+
+			%%56|bEbTmKmPoaocod;2EcKofq6qFr6;gLo7pCqW;fKra
+		
+			Very difficult to defeat
+			
+		- Top Special (American-French)
+
+			%%56|bEbTcPcZfGoIpzrn;2kgjgQodoeofpCpDpErTrV;bKbPqW; 
+			
+			Only two heavy American attacking units, with French diversion
+			
+		- Mo Brewsters (American-French) 
+
+			%%56|bEblcWd4oe;bIbqk7sHsv;dlohstu6;rVsGsI
+	
+	- Italian (7)
+	
+		- Shermans IT (American-Italian)
+
+			%%57|57bEbRcWfVmPo6ocoYqWrn;bPfXk5oeqGqor4r9rb;d4rc;bK
+			
+		- Escort Tricks (American-French)
+
+			%%57|bEbPcOfXoepDpEqmqWr9;o6qGrY;d4k5pCr4rb;bKrc
+			
+		- Gladiators (American-Italian)
+
+			%%57|bRcDdffGk6;5aofp0pDpLqW;fXle;bKd7fKpE
+			
+			Add defense to HQ using alpine guards, and add attack to guards using Spirit of Rome
+			
+		- Carry Brewsters (American-Italian)
+
+			%%57|5i5pbRsKu8uD;blbqd4ohs5sIsusv;bIsHu6;sGst 
+	
+	- Polish (8)
+	
+		- Pol D Medic (American-Polish)
+
+			%%58|bEbPcKcvcYd5fGitizjqk6mCmQnSo9r9;bnj4k5ohpCqFrc;bQiJml;
+			
+		- Drafted Marines (American-Polish) 
+
+			%%58|bKcQdaj4mFmiodoepDpGsJsKu7;d2fKlhpEpgsHu3u8;dlu5;jp
+	
+	- Finnish (9)
+	
+		- Jager Bomb (American-Finnish)
+
+			%%59|bEbRdedkfGmKoepC;bPbQbqngofpDpErKrP;n8rcsj;bK  
+			
+			Also very difficult to defeat
+
+	
 ### Other Cool Decks 
 
 - Nerf Self (Japanese-American)
@@ -498,7 +659,7 @@ https://www.kards.com/decks/deck-builder
 	Suppress "cannot attack HQ" of own cards upon deployment 
 	
 	
-### Current Decks 
+### Current Decks (Officers' Club Level)  
 
 - Simple Air Blitz (British-American) 
 
@@ -512,11 +673,11 @@ https://www.kards.com/decks/deck-builder
 
 	2025_05_20 : %%25|090F1B1mbqcBeGeHgshDiqltn1oupCpO;080b0i0qbKhMohovpEpV;1k;
 	
+	2025_06_16 : %%25|04090b0d1lbDbQbnn3odotoxoy;060qgpn1oupCpJ;0o1khMov;
+	
 - So Many Joes (British-Russian)
 
 	2025_06_02 : %%24|0E0F0m1B1l1m7R7W8B9keGiQoootouoxpOpV;090o0q;080b1k7Hov;
-	
-	2025_06_16 : %%25|04090b0d1lbDbQbnn3odotoxoy;060qgpn1oupCpJ;0o1khMov;
 
 - Intelli Comms (British-Polish)
 
@@ -561,8 +722,6 @@ https://www.kards.com/decks/deck-builder
 		2025_06_21 : %%57|575j5pbBbEbqbRcWdfo6ocoeohoYpEpGqWqZr4r9s5;bKbPfXqGqorb;d4rc;
 	
 - So Covert (Russian-Japanese)
-
-	2025_06_01 : %%43|5R6C7J7R8ggbiQp4pfpuqqqT;7l7O8F9eaXp8pmpopt;7Hpnpv;
 	
 	2025_06_02 : %%43|5R6C7J7l7R7S8F8g99gbiQp4p9pfpkpmpuqqqTqu;7O9ep8popt;7Hpnpv;
 	
