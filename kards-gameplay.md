@@ -632,6 +632,10 @@ https://www.kards.com/decks/deck-builder
 		- Carry Brewsters (American-Italian)
 
 			%%57|5i5pbRsKu8uD;blbqd4ohs5sIsusv;bIsHu6;sGst 
+			
+		- Carrier (American-Italian)
+
+			%%57|cUmPohsKu6u8;bPpDpEsI;blbQsH;bKs5s7sG
 	
 	- Polish (8)
 	
