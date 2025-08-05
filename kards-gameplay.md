@@ -574,6 +574,12 @@ https://www.kards.com/decks/deck-builder
 		- Tough Cookie (American-Japanese) 
 
 			%%53|bEbicxfGpBpCpEpyqDr9;5YnNo9pL;bPp6rc;bKpJtQ
+			
+		- CIA FOS w/ FSO (American-Japanese)
+
+			%%53|5t6C6UbEbKbqbRcpcrdak6mQodohp4papfpLqZu8;bInIp8pApFpKqCsG;pH;
+			
+			This is most probably what the US will do from Japan in the battle for Taiwan against China, by 2027. 
 	
 	- Russian (4)
 	
@@ -748,6 +754,10 @@ https://www.kards.com/decks/deck-builder
 	- LoT 06-03 Mod 
 	
 		2025_06_14 : %%45|7R7S8c8g8U9b9xbqiLiQiZjsnVoeohpEpoqKqRqSqTr7rj;7H9n9pbKo6qWrgri;;
+		
+- Mo Joe Jo Jo 
+
+	2025_08_06 : %%25|060E0F0i0m1BbKbPiqjTodoooroxpDpEpLpOpWsU;09bqhEoupU;1kovtT; 
 
 <br>
 
