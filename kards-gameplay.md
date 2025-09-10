@@ -625,7 +625,7 @@ https://www.kards.com/decks/deck-builder
 
 			%%57|57bEbRcWfVmPo6ocoYqWrn;bPfXk5oeqGqor4r9rb;d4rc;bK
 			
-		- Escort Tricks (American-French)
+		- Escort Tricks (American-Italian)
 
 			%%57|bEbPcOfXoepDpEqmqWr9;o6qGrY;d4k5pCr4rb;bKrc
 			
@@ -642,6 +642,12 @@ https://www.kards.com/decks/deck-builder
 		- Carrier (American-Italian)
 
 			%%57|cUmPohsKu6u8;bPpDpEsI;blbQsH;bKs5s7sG
+			
+		- Fiat Lux
+
+			%%57|5mbEbQbRcOd7dlfXk6ohrYstu8;bqsGsI;blsHsvu6;5is5
+			
+			Tournament ready with Brewsters and Macchi  
 	
 	- Polish (8)
 	
