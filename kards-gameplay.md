@@ -382,6 +382,10 @@ https://www.kards.com/decks/deck-builder
 		- Legions Plus Intell (Japanese-Polish)
 
 			%%38|5C666BiHm6mcmgnOphqDrktCtMu9uy;5YiDnIqCtQ;jPtG;itpg
+			
+		- Motel (Japanese-Polish)
+		
+			%%38|5C66676B6TiDiHiqmlqFqGuy;ihitpgpiqCtGtM;5YjPtQ;u9
 	
 	- Finnish (9)
 	
