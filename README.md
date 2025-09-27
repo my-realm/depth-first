@@ -92,4 +92,6 @@ You can read any of the following articles:
 
 - **[2025_06_11 | Kards Gameplay](https://github.com/my-realm/depth-first/blob/master/kards-gameplay.md)**
 
-- **[2025_09_17 | Advanced Tactics and High-Tech Mobility for Commandos :wink:](https://github.com/just-noticeable/isr/blob/main/docs/2025-09-17.md)**
+- **[2025_09_17 | Advanced Tactics and High-Tech Mobility for Commandos :wink:](https://github.com/just-noticeable/isr/blob/main/docs/2025-09-17.md)** 
+
+	Did somebody order a "Regime Change?" Okay then, it's Go Time! 
