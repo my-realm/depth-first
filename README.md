@@ -72,7 +72,7 @@ Umm, so...
 
 <br>
 
-## In the mean time...
+## In the meanwhile...
 
 You can read any of the following articles: 
 
@@ -95,3 +95,5 @@ You can read any of the following articles:
 - **[2025_09_17 | Advanced Tactics and High-Tech Mobility for Commandos :wink:](https://github.com/just-noticeable/isr/blob/main/docs/2025-09-17.md)** 
 
 	Did somebody order a "Regime Change?" Okay then, it's Go Time! 
+
+- **[2025-10-03 | Drone Strikes on Commercial Airlines and Airports](https://github.com/my-realm/musings/blob/main/vulnerable-airports.md)** 
