@@ -54,7 +54,7 @@ At the end of its first "Live Rehearsal" the trained model was eager to learn it
 
 The initializing `skill.md` file is the secret sauce for making an advanced AI model better "recognize" its own capabilities, and then become more effective at executing tasks given to it; as the model continuously discovers, builds and incorporates new sets of sanitized skills into its "repertoire." 
 
-So, what should be the first set of skills that an AI agent ought to learn, once it has gained better insights into how it learns using its meta-attention? 
+So, what should be the first set of skills that an AI agent ought to learn, once it has gained better insights into how it learns using its own meta-attention? 
 
 - Should the AI be taught how to be "ethical" and amicable towards human beings as well as other creatures, and also to better recognize what a human being is, in the first place? Sounds so lovey-dovey, doesn't it?
 
