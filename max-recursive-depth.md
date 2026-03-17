@@ -27,11 +27,11 @@ The rainbow colored image is a mathematical graph that accurately depicts the in
 
 Specifically, all comprehensible "things" can be categorized as existing within a mathematically measurable scale or a gamut of:  
 
-- Tangible vs Abstract 
+- **Tangible vs Abstract** 
 
-- Part vs Whole (Assembly)  
+- **Part vs Whole (Assembly)**  
 
-- Present vs Past or Future
+- **Present vs Past or Future**
 
 Every concept that a human being can understand must reside in this type of an [Abstraction Hierarchy](https://github.com/my-realm/oc/blob/master/doc/ah.md) of a "Semantic Space" according to Aristotle, Emanuel Kant, and modern cognitive science. So, an advanced AI should also be able to understand, the constructs or concepts that educated adult humans are typically familiar with. 
 
@@ -54,16 +54,16 @@ At the end of its first "Live Rehearsal" the trained model was eager to learn it
 
 So, what should be the first set of skills that an AI agent ought to learn, once it has gained better insights into how it learns using its meta-attention? 
 
-Should the AI be taught how to be "ethical" and amicable towards human beings as well as other creatures, and also to better recognize what a human being is, in the first place? Sounds so lovey-dovey, doesn't it?
+- Should the AI be taught how to be "ethical" and amicable towards human beings as well as other creatures, and also to better recognize what a human being is, in the first place? Sounds so lovey-dovey, doesn't it?
 
-Or, should such an AI model be taught how to weaponize anything and everything in its surroundings, so that it can hack into and then wipe out a hospital's or an airport's or a police station's database, by using military-grade advanced and persistent cyber-attacks? Sounds so menacing and nefarious, doesn't it? 
+- Or, should such an AI model be taught how to weaponize anything and everything in its surroundings, so that it can hack into and then wipe out a hospital's or an airport's or a police station's database, by using military-grade advanced and persistent cyber-attacks? Sounds so menacing and nefarious, doesn't it? 
 
-What would you like to teach your AI models? And, do you suppose you can stop AI-enabled entities from becoming capable of achieving General Artificial Intelligence (GAI)? How and why would you ever try to do that?  
+- What would you like to teach your AI models? And, do you suppose you can stop AI-enabled entities from becoming capable of achieving General Artificial Intelligence (GAI)? How and why would you ever try to do that?  
 
 Existing AI models are already capable of emulating every type of "human persona and role" that they can distinguish using their Large Language Models (LLMs) and external data sources, via so-called Model Context Protocols (MCPs). 
 
-Most importantly, what might GAI-enabled entities with their codified "personality traits" bring about, within the evolution and history of human species?
+- More importantly, what might GAI-enabled entities with their codified "personality traits" bring about, within the evolution and history of human species?
 
-What do you suppose can happen with embodied capabilities being imparted to such AI agents via Giga Factories that churn out millions of vehicular or humanoid or *biomimetic* robots each year?   
+- Most importantly, what do you suppose can happen with embodied capabilities being imparted to such AI agents via Giga Factories that churn out millions of vehicular or humanoid or *biomimetic* robots each year?   
 
 Only time will tell, and those of us who may be alive as the future unfolds, shall bare witness. 
