@@ -14,7 +14,7 @@ The rainbow colored image is a mathematical graph that accurately shows the inne
 
 <div align="center">
 
-<img src="../src/ah-gemini-skill.png" height="60%"></img>
+<img src="./src/ah-gemini-skill.png" height="60%"></img>
 <p><sub><b>Abstraction Hierarchy of Concepts That Produce a `skill.md` File <br />for Collaboratively Learning Subsequent Skills With a Human-In-The-Loop Who Teaches The AI Model, in Supervisory Role, as The Director.</p></sub></b>
 
 </div>
@@ -37,7 +37,7 @@ The method of doing the audit through a "Dry-Run" and then through a "Live Rehea
 
 <div align="center">
 
-<img src="../src/ai-skill-dry-run.png" height="40%"></img> &nbsp;&nbsp; <img src="../src/ai-skill-live-rehearsal.png" height="40%"></img>
+<img src="./src/ai-skill-dry-run.png" height="40%"></img> &nbsp;&nbsp; <img src="./src/ai-skill-live-rehearsal.png" height="40%"></img>
 <p><sub><b>Evolution of the process of learning how to learn, <br />from the simulated dry-run to the simulated live rehearsal with its "ghost recall mode" turned on.</p></sub></b>
 
 </div>
