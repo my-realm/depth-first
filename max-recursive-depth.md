@@ -19,7 +19,7 @@ Figure 1. with its rainbow colored image is a mathematical graph, dynamically ti
 <div align="center">
 
 <img src="./src/ah-gemini-skill.png" height="60%" width="80%"></img>
-<p><sub><b>Figure 1. Abstraction Hierarchy of concepts that produce a `skill.md` file <br />for collaboratively encoding subsequent skills into the AI model, <br />with a Human-In-The-Loop who teaches and tunes the model, in Supervisory Role, as The Director.</p></sub></b>
+<p><sub><b><i>Figure 1.</i> Abstraction Hierarchy of concepts that produce a `skill.md` file, <br />for collaboratively encoding subsequent skills into the AI model, <br />with a Human-In-The-Loop who teaches and tunes the model, in Supervisory Role, as The Director.</p></sub></b>
 
 </div>
 
@@ -44,7 +44,7 @@ The method of doing the audit through a "Dry-Run" and then through a "Live Rehea
 <div align="center">
 
 <img src="./src/ai-skill-dry-run.png" width="45%"></img> <img src="./src/ai-skill-live-rehearsal.png" width="45%"></img>
-<p><sub><b>Figures 2. & 3. Evolution of the process of learning how to learn, <br />from the simulated dry-run to the simulated live rehearsal, <br />with its "ghost recall mode" turned on.</p></sub></b>
+<p><sub><b><i>Figures 2. & 3.</i> Evolution of the process of learning how to learn, <br />from the simulated dry-run on the left to the simulated live rehearsal on the right, <br />with its "ghost recall mode" turned on.</p></sub></b>
 
 </div>
 
