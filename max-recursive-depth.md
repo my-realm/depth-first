@@ -43,7 +43,7 @@ The method of doing the audit through a "Dry-Run" and then through a "Live Rehea
 
 <div align="center">
 
-<img src="./src/ai-skill-dry-run.png" height="75%" width="40%"></img> <img src="./src/ai-skill-live-rehearsal.png" height="75%" width="40%"></img>
+<img src="./src/ai-skill-dry-run.png" width="45%"></img> <img src="./src/ai-skill-live-rehearsal.png" width="45%"></img>
 <p><sub><b>Evolution of the process of learning how to learn, <br />from the simulated dry-run to the simulated live rehearsal with its "ghost recall mode" turned on.</p></sub></b>
 
 </div>
