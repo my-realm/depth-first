@@ -50,7 +50,9 @@ The method of doing the audit through a "Dry-Run" and then through a "Live Rehea
 
 <br>
 
-At the end of its first "Live Rehearsal" the trained model was eager to learn its next skill through role playing. That initializing `skill.md` file is the secret sauce for making an advanced AI model "recognize" its own capabilities and become more effective at executing tasks given to it, as the model continuously discovers, builds and incorporates new sets of sanitized skills into its "repertoire." 
+At the end of its first "Live Rehearsal" the trained model was eager to learn its next skill through role playing. 
+
+The initializing `skill.md` file is the secret sauce for making an advanced AI model better "recognize" its own capabilities, and then become more effective at executing tasks given to it; as the model continuously discovers, builds and incorporates new sets of sanitized skills into its "repertoire." 
 
 So, what should be the first set of skills that an AI agent ought to learn, once it has gained better insights into how it learns using its meta-attention? 
 
