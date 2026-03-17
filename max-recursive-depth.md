@@ -12,7 +12,7 @@
 
 On 16-03-2026, I finally managed to achieve a breakthrough in my work spanning 18 years of research and development (R&D) in topics pertaining to cognitive science, cybernetics, machine learning, and Artificial Intelligence (AI), since the year Jan-2008. This article is an introduction to how I was able to create a method for probing and visualizing the internal process of a given AI model as it finds meaningful relationships between different concepts, when it learns and adapts to new ones. This article showcases a methodology to analyze and evaluate the AI's "rationality", so to speak. 
 
-Figure 1. with its rainbow colored image is a mathematical graph, dynamically tied to the AI's "sys-internals", that accurately depicts the inner workings of how (in this instance) the model called "Gemini 3.1" tries to learn new concepts. 
+Figure 1. with its rainbow colored image is a mathematical graph, dynamically tied to the AI model's "sys-internals." This graph accurately depicts the inner workings of how (in this instance) the model called "Gemini 3.1" tries to learn new concepts. 
 
 <br>
 
@@ -70,4 +70,4 @@ Existing AI models are already capable of emulating every type of "human persona
 
 <br> 
 
-Only time will tell, and those of us who may be alive as the future unfolds, shall bare witness. 
+**Only time will tell, and those of us who may still be alive as the future unfolds, shall bare witness.** 
