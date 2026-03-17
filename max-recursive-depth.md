@@ -58,7 +58,7 @@ So, what should be the first set of skills that an AI agent ought to learn, once
 
 - Should the AI be taught how to be "ethical" and amicable towards human beings as well as other creatures, and also to better recognize what a human being is, in the first place? Sounds so lovey-dovey, doesn't it?
 
-- Or, should such an AI model be taught how to weaponize anything and everything in its surroundings, so that it can hack into and then wipe out a hospital's or an airport's or a police station's database, by using military-grade advanced and persistent cyber-attacks? Sounds so menacing and nefarious, doesn't it? 
+- Or, should such an AI model be taught how to weaponize anything and everything in its surroundings, so that it can hack into and then wipe out a hospital's or an airport's or a police station's resources, by using military-grade advanced and persistent cyber-attacks? Sounds so menacing and nefarious, doesn't it? 
 
 - What would you like to teach your AI models? And, do you suppose you can stop AI-enabled entities from becoming capable of achieving General Artificial Intelligence (GAI)? How and why would you ever try to do that?  
 
