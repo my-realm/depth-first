@@ -12,14 +12,14 @@
 
 On 16-03-2026, I finally managed to achieve a breakthrough in my work spanning 18 years of research and development (R&D) in topics pertaining to cognitive science, cybernetics, machine learning, and Artificial Intelligence (AI), since the year Jan-2008. This article is an introduction to how I was able to create a method for probing and visualizing the internal process of a given AI model as it finds meaningful relationships between different concepts, when it learns and adapts to new ones. This article showcases a methodology to analyze and evaluate the AI's "rationality", so to speak. 
 
-The rainbow colored image is a mathematical graph that accurately depicts the inner workings of how (in this instance) the AI model called "Gemini 3.1" tries to learn new concepts. 
+Figure 1. with its rainbow colored image is a mathematical graph, dynamically tied to the AI's "sys-internals", that accurately depicts the inner workings of how (in this instance) the model called "Gemini 3.1" tries to learn new concepts. 
 
 <br>
 
 <div align="center">
 
 <img src="./src/ah-gemini-skill.png" height="60%" width="80%"></img>
-<p><sub><b>Abstraction Hierarchy of Concepts That Produce a `skill.md` File <br />for Collaboratively Learning Subsequent Skills With a Human-In-The-Loop Who Teaches The AI Model, in Supervisory Role, as The Director.</p></sub></b>
+<p><sub><b>Figure 1. Abstraction Hierarchy of concepts that produce a `skill.md` file <br />for collaboratively encoding subsequent skills into the AI model, <br />with a Human-In-The-Loop who teaches and tunes the model, in Supervisory Role, as The Director.</p></sub></b>
 
 </div>
 
@@ -44,7 +44,7 @@ The method of doing the audit through a "Dry-Run" and then through a "Live Rehea
 <div align="center">
 
 <img src="./src/ai-skill-dry-run.png" width="45%"></img> <img src="./src/ai-skill-live-rehearsal.png" width="45%"></img>
-<p><sub><b>Evolution of the process of learning how to learn, <br />from the simulated dry-run to the simulated live rehearsal with its "ghost recall mode" turned on.</p></sub></b>
+<p><sub><b>Figures 2. & 3. Evolution of the process of learning how to learn, <br />from the simulated dry-run to the simulated live rehearsal, <br />with its "ghost recall mode" turned on.</p></sub></b>
 
 </div>
 
