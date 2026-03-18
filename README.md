@@ -98,4 +98,4 @@ You can read any of the following articles:
 
 - **[2025-10-03 | Drone Strikes on Commercial Airlines and Airports](https://github.com/my-realm/musings/blob/main/vulnerable-airports.md)** 
 
-- **[2026-03-18 | Max Recursive Depth](https://github.com/my-realm/musings/blob/main/max-recursive-depth.md)** 
+- **[2026-03-18 | Max Recursive Depth](https://github.com/my-realm/depth-first/blob/master/max-recursive-depth.md)** 
