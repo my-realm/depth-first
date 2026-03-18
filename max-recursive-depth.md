@@ -10,7 +10,7 @@
 
 <br>
 
-On 16-03-2026, I finally managed to achieve a breakthrough in my work spanning 18 years of research and development (R&D) in topics pertaining to cognitive science, cybernetics, machine learning, and Artificial Intelligence (AI), since the year Jan-2008. If you like, feel free to share this with anyone you know, who is interested in Human-Computer-Interaction or Human-Robot-Interaction. 
+On 16-03-2026, I finally managed to achieve a breakthrough in my work spanning 18 years of research and development (R&D) in topics pertaining to cognitive science, cybernetics, machine learning, and Artificial Intelligence (AI), since the year Jan-2008. If you like, please feel free to share this with anyone you know, who is interested in Human-Computer-Interaction or Human-Robot-Interaction. 
 
 This article is an introduction to how I was able to create a method for probing and visualizing the internal process of a given AI model that can find meaningful relationships between different concepts in a given dataset, while it learns and adapts to new ones from novel inputs. This article showcases a methodology to analyze and evaluate the AI's "rationality", so to speak. 
 
