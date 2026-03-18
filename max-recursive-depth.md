@@ -14,7 +14,7 @@ On 16-03-2026, I finally managed to achieve a breakthrough in my work spanning 1
 
 This article is an introduction to how I was able to create a method for probing and visualizing the internal process of a given AI model that can find meaningful relationships between different concepts in a given dataset, while it learns and adapts to new ones from novel inputs. This article showcases a methodology to analyze and evaluate the AI's "rationality", so to speak. 
 
-Figure 1. with its rainbow colored image is a mathematical graph, dynamically tied to the AI model's "sys-internals." This graph accurately and precisely depicts the [token-vector embeddings](https://medium.com/@saschametzger/what-are-tokens-vectors-and-embeddings-how-do-you-create-them-e2a3e698e037) of how exactly, in this instance, the model called "Gemini 3.1 Pro" learns the concepts associated with acquiring a new skill. 
+Figure 1. with its rainbow colored image is a mathematical graph, dynamically tied to the AI model's "sys-internals." This graph accurately and precisely depicts the [token-vector embeddings](https://medium.com/@saschametzger/what-are-tokens-vectors-and-embeddings-how-do-you-create-them-e2a3e698e037) of how exactly, in this instance, the model called "Gemini 3.1 Pro" learned the concepts associated with acquiring a new skill. 
 
 <br>
 
@@ -68,7 +68,7 @@ Many of the commercially available AI models in online marketplaces are already 
 
 - More importantly, what might GAI-enabled entities with their codified "personality traits" bring about, within the evolution and history of human species?
 
-- Most importantly, what do you suppose can happen with embodied capabilities being imparted to such AI agents via Giga Factories that churn out millions of vehicular or humanoid or [*biomimetic*](https://en.wikipedia.org/wiki/Biomimetics#Bio-inspired_technologies) robots each year?  
+- Most importantly, what do you suppose can happen with embodied capabilities being imparted to such AI agents via Giga Factories that are churning out millions of vehicular or humanoid or [*biomimetic*](https://en.wikipedia.org/wiki/Biomimetics#Bio-inspired_technologies) robots each year?  
 
 <br> 
 
