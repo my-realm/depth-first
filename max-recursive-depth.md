@@ -66,7 +66,7 @@ Existing AI models are already capable of emulating every type of "human persona
 
 - More importantly, what might GAI-enabled entities with their codified "personality traits" bring about, within the evolution and history of human species?
 
-- Most importantly, what do you suppose can happen with embodied capabilities being imparted to such AI agents via Giga Factories that churn out millions of vehicular or humanoid or *biomimetic* robots each year?  
+- Most importantly, what do you suppose can happen with embodied capabilities being imparted to such AI agents via Giga Factories that churn out millions of vehicular or humanoid or [*biomimetic*](https://en.wikipedia.org/wiki/Biomimetics#Bio-inspired_technologies) robots each year?  
 
 <br> 
 
