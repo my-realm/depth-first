@@ -25,7 +25,7 @@ Figure 1. with its rainbow colored image is a mathematical graph, dynamically ti
 
 <br>
 
-Specifically, all comprehensible "things" can be categorized as existing within a mathematically measurable scale or a gamut of:  
+Specifically, all discernible and comprehensible "things" can be categorized as existing within a mathematically measurable scale or a gamut of:  
 
 - **Tangible vs Abstract** 
 
