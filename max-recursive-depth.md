@@ -72,4 +72,4 @@ Many of the commercially available AI models in online marketplaces are already 
 
 <br> 
 
-**Only time will tell, and those of us who may still be alive as the future unfolds, shall bare witness.** 
+**Only time will tell, and those of us who may still be alive as the future unfolds, shall bear witness.** 
