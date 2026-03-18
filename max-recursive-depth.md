@@ -62,7 +62,7 @@ So, what should be the first set of skills that an AI agent ought to learn, once
 
 - What would you like to teach your AI models? And, do you suppose you can stop AI-enabled entities from becoming capable of achieving General Artificial Intelligence (GAI)? How and why would you ever try to do that?  
 
-Existing AI models are already capable of emulating every type of "human persona and role" that they can distinguish using their Large Language Models (LLMs) and external data sources, via so-called Model Context Protocols (MCPs). 
+Many of the commercially available AI models in online marketplaces are already capable of emulating every type of "human persona and role" that they can distinguish, by utilizing their Large Language Models (LLMs) and external data sources, via so-called Model Context Protocols (MCPs). 
 
 - More importantly, what might GAI-enabled entities with their codified "personality traits" bring about, within the evolution and history of human species?
 
