@@ -33,7 +33,7 @@ Specifically, all discernible and comprehensible "things" can be categorized as 
 
 - **Present vs Past or Future**
 
-Every concept that a human being can understand must reside in this type of an [Abstraction Hierarchy](https://github.com/my-realm/oc/blob/master/doc/ah.md) of a "Semantic Space" according to Aristotle, Panini, Confucious, Emanuel Kant, and modern cognitive science. So, an advanced AI should also be able to understand, the constructs or concepts that educated adult humans are typically familiar with. 
+Every concept that a human being can understand must reside in this type of an [Abstraction Hierarchy](https://github.com/my-realm/oc/blob/master/doc/ah.md) of a "Semantic Space" according to Aristotle, Panini, Confucious, Emanuel Kant, and modern cognitive science. So, an advanced AI should also be able to understand, the constructs or concepts that unimpaired educated adult humans are typically familiar with. 
 
 In this way, different AI models and their internal workings can be measured objectively and compared with each other for bench-marking purposes, by using this auditing method, that also provides a rating of "abstractness" and "wholesomeness" of a given role-based task. 
 
