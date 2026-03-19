@@ -12,9 +12,9 @@
 
 On 16-03-2026, I finally managed to achieve a breakthrough in my work spanning 18 years of research and development (R&D) in topics pertaining to cognitive science, cybernetics, machine learning, and Artificial Intelligence (AI), since the year Jan-2008. If you like, please feel free to share this with anyone you know, who is interested in Human-Computer-Interaction or Human-Robot-Interaction. 
 
-This article is an introduction to how I was able to create a method for probing and visualizing the internal process of a given AI model that can find meaningful relationships between different concepts in a given dataset, while it learns and adapts to new ones from novel inputs. This article showcases a methodology to analyze and evaluate the AI's "rationality", so to speak. 
+This article is a description of how I was able to create a method for probing and visualizing the internal process of a given AI model. The eventual graph produced by the AI shows how it found meaningful relationships between different concepts in a given dataset, while it learned and adapted to new ones from novel inputs. The supervising inputs can be from a human developer or another "skillful AI model" during successive iterations of training a target model. This article showcases a methodology to analyze and evaluate the AI's "rationality", so to speak. 
 
-Figure 1. with its rainbow colored image is a mathematical graph, dynamically tied to the AI model's "sys-internals." This graph accurately and precisely depicts the [token-vector embeddings](https://medium.com/@saschametzger/what-are-tokens-vectors-and-embeddings-how-do-you-create-them-e2a3e698e037) of how exactly, in this instance, the model called "Gemini 3.1 Pro" learned the concepts associated with acquiring a new skill. 
+*Figure 1* is a mathematical graph, dynamically tied to the AI model's "sys-internals." This graph accurately and precisely depicts the [word-vector embeddings](https://medium.com/@saschametzger/what-are-tokens-vectors-and-embeddings-how-do-you-create-them-e2a3e698e037) of how exactly, in this instance, the model called "Gemini 3.1 Pro" learned the concepts associated with acquiring a new skill. 
 
 <br>
 
@@ -35,7 +35,7 @@ Specifically, all discernible and comprehensible "things" can be categorized as 
 
 - **Present vs Past or Future**
 
-Every concept that a human being can understand must reside in this type of an [Abstraction Hierarchy](https://github.com/my-realm/oc/blob/master/doc/ah.md) of a "Semantic Space" according to Aristotle, Panini, Confucious, Emanuel Kant, and modern cognitive science. So, an advanced AI should also be able to understand, the constructs or concepts that unimpaired educated adult humans are typically familiar with. 
+Every concept that a human being can understand must reside in this type of an [Abstraction Hierarchy](https://github.com/my-realm/oc/blob/master/doc/ah.md) of a "Semantic Space" according to Aristotle, Panini, Confucius, Emanuel Kant, and modern cognitive science. So, an advanced AI should also be able to understand, the constructs or concepts that unimpaired educated adult humans are typically familiar with. 
 
 In this way, different AI models and their internal workings can be measured objectively and compared with each other for bench-marking purposes, by using this auditing method, that also provides a rating of "abstractness" and "wholesomeness" of a given role-based task. 
 
@@ -46,7 +46,7 @@ The method of doing the audit using a "Dry-Run" and then through a "Live Rehears
 <div align="center">
 
 <img src="./src/ai-skill-dry-run.png" width="45%"></img> <img src="./src/ai-skill-live-rehearsal.png" width="45%"></img>
-<p><sub><b><i>Figures 2. & 3.</i> Evolution of the process of learning how to learn, <br />from the simulated dry-run on the left to the simulated live rehearsal on the right, <br />with its "ghost recall mode" turned on.</p></sub></b>
+<p><sub><b><i>Figures 2 & 3.</i> Evolution of the process of learning how to learn, <br />from the simulated dry-run on the left to the simulated live rehearsal on the right, <br />with its "ghost recall mode" turned on.</p></sub></b>
 
 </div>
 
